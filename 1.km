@@ -1,0 +1,147 @@
+{
+    "root": {
+        "data": {
+            "id": "btw2ht8ic7s0",
+            "created": 1557124293691,
+            "text": "中心主题"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "btw2is7qj680",
+                    "created": 1557124369832,
+                    "text": "大数据",
+                    "layout_mind_offset": {
+                        "x": -21,
+                        "y": -3
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "btw2is7rt880",
+                            "created": 1557124369834,
+                            "text": "产生背景",
+                            "layout": null,
+                            "note": "源于互联网行业，用户量与数据量越来越多，逐步形成了大数据。",
+                            "priority": null,
+                            "color": "white",
+                            "background": "#73a1bf"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "btw2is7rchc0",
+                            "created": 1557124369834,
+                            "text": "应用场景"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "btw2is7rji80",
+                                    "created": 1557124369834,
+                                    "text": "互联网领域"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "btw2is7rw940",
+                                            "created": 1557124369834,
+                                            "text": "搜索引擎"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7sx540",
+                                            "created": 1557124369836,
+                                            "text": "推荐系统"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7sxb40",
+                                            "created": 1557124369836,
+                                            "text": "广告系统"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "btw2is7so680",
+                                    "created": 1557124369836,
+                                    "text": "电信领域"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "btw2is7thd40",
+                                            "created": 1557124369837,
+                                            "text": "网络管理与优化"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7tpmw0",
+                                            "created": 1557124369837,
+                                            "text": "市场与精准营销"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7twow0",
+                                            "created": 1557124369838,
+                                            "text": "客户关系管理"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7tsv40",
+                                            "created": 1557124369838,
+                                            "text": "企业运营管理"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "btw2is7ty140",
+                                            "created": 1557124369838,
+                                            "text": "数据商业化"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "btw2is7urp40",
+                                    "created": 1557124369839,
+                                    "text": "子主题 3"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "btw2is7ula00",
+                            "created": 1557124369839,
+                            "text": "技术架构"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43"
+}
